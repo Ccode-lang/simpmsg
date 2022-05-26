@@ -8,4 +8,4 @@ set -o pipefail # for a pipeline, if any of the commands fail with a non-zero ex
 mkdir simpmsg
 cp simpmsg.py simpmsg/__init__.py
 
-#python setup.py sdist bdist_wheel
+python setup.py sdist bdist_wheel
