@@ -9,7 +9,7 @@ setuptools.setup(
     author="Ccode-lang",
     author_email="coop112097@gmail.com",
     description="For all the people too lazy too learn to use tcp.",
-    long_description=long_description,
+    long_description="#Simpmsg",
     long_description_content_type="text/markdown",
     url="https://github.com/Ccode-lang/simpmsg",
     packages=setuptools.find_packages(),
